@@ -1,4 +1,4 @@
-The code is placed in the file road sign detection with CNN and Keras
+The code is placed in the file "road-sign-detection-final-code.ipynb"
 The data set to be used for the above code is https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
 The results obtained are 
         - Graphs displaying Model Loss and Model Accuracy
